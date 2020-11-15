@@ -1,0 +1,7 @@
+C:\Users\yalou\source\repos\Drofsnar\Drofsnar\bin\Debug\Drofsnar.exe.config
+C:\Users\yalou\source\repos\Drofsnar\Drofsnar\bin\Debug\Drofsnar.exe
+C:\Users\yalou\source\repos\Drofsnar\Drofsnar\bin\Debug\Drofsnar.pdb
+C:\Users\yalou\source\repos\Drofsnar\Drofsnar\obj\Debug\Drofsnar.csprojAssemblyReference.cache
+C:\Users\yalou\source\repos\Drofsnar\Drofsnar\obj\Debug\Drofsnar.csproj.CoreCompileInputs.cache
+C:\Users\yalou\source\repos\Drofsnar\Drofsnar\obj\Debug\Drofsnar.exe
+C:\Users\yalou\source\repos\Drofsnar\Drofsnar\obj\Debug\Drofsnar.pdb
